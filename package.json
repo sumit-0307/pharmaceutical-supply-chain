@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.8",
+    "truffle": "^5.5.13"
+  }
+}

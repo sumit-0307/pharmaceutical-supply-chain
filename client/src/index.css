@@ -1,0 +1,11 @@
+@import "tailwindcss";
+.form-control-sm{
+    padding: 0;
+    margin:0;
+    width:250px;
+}
+
+.h4{
+    border: 2px;
+    padding: 10px;
+}
